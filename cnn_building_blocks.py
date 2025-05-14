@@ -110,10 +110,8 @@ def my_softmax(raw_scores):
     
     '''
     We substract maximum value to ensure numerical stability after using exponential.
-    
     Subtraction makes sure the value is 0 or less so that after expoentiation, the output is a small value, which
     is easy for computer to handle.
-    
     Subtraction doesn't change the relationship between values. e.g. if A > B, then, A-5 > B-5 is still valid.
     '''
     
