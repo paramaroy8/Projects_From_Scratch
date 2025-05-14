@@ -20,6 +20,7 @@ A modular and configurable convolutional neural network (CNN) pipeline built ent
 - Loss functions
 - Accuracy/metric evaluation
 - Data loading pipeline (use NumPy arrays)
+- Batching
 
 > This is a work in progress. Contributions or feedback are welcome!
 
