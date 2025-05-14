@@ -21,7 +21,7 @@ A modular and configurable convolutional neural network (CNN) pipeline built ent
 - Accuracy/metric evaluation
 - Data loading pipeline (use NumPy arrays)
 - Batching
-- Mapping the predicted class (index of highest score) to the labels of dataset
+- Mapping predicted class to dataset labels
 
 > This is a work in progress. Contributions or feedback are welcome!
 
