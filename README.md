@@ -21,7 +21,6 @@ A modular and configurable convolutional neural network (CNN) pipeline built ent
 - Backpropagation and training loop
 - Loss functions
 - Accuracy/metric evaluation
-- Data loading pipeline (use NumPy arrays)
 - Batching
 - Mapping predicted class to dataset labels
 
