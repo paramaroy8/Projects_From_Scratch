@@ -13,6 +13,8 @@ A modular and configurable convolutional neural network (CNN) pipeline built ent
   - Fully connected layers
 - Handles RGB images
 - Clean and extensible codebase for learning or future extension
+- (Optional) Download and store CIFAR-10 dataset with labels as numpy files.
+  > Torchvision was used to download the CIFAR-10 Dataset with Labels.
 
 ## ❗ What’s Not Included (Yet)
 
