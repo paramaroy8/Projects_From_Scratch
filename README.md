@@ -59,5 +59,3 @@ all probability: [0.10038781 0.09990939 0.10031709 0.10017366 0.09982597 0.09953
 
 predicted class(es): [0] with score = 0.1003878061814276
 ```
-
-Use this website to generate trees for project structure: https://tree.nathanfriend.com/
