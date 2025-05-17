@@ -1,4 +1,4 @@
-# Configurable CNN with Numpy (from scratch)
+# Configurable 2D CNN with Numpy (from scratch)
 
 A modular and configurable convolutional neural network (CNN) pipeline built entirely from scratch using NumPy. This project demonstrates the forward pass of a CNN capable of handling RGB image datasets such as CIFAR-10. 
 
