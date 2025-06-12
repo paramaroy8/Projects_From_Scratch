@@ -2,7 +2,7 @@
 
 A modular and configurable convolutional neural network (CNN) pipeline built entirely from scratch using NumPy. This project demonstrates the forward pass of a CNN capable of handling RGB image datasets such as CIFAR-10. 
 
-## 🚀 Features
+## Features
 
 - Written 100% from scratch using NumPy (no deep learning frameworks)
 - User-defined architecture via configuration
@@ -16,7 +16,7 @@ A modular and configurable convolutional neural network (CNN) pipeline built ent
 - (Optional) Download and store CIFAR-10 dataset with labels as numpy files
   > Torchvision was used to download the CIFAR-10 Dataset with Labels.
 
-## ❗ What’s Not Included (Yet)
+## What’s Not Included (Yet)
 
 - Backpropagation and training loop
 - Loss functions
@@ -26,11 +26,11 @@ A modular and configurable convolutional neural network (CNN) pipeline built ent
 
 > This is a work in progress. Contributions or feedback are welcome!
 
-## 🧠 Motivation
+## Motivation
 
 This project was created to better understand the inner workings of CNNs and to build a deep learning pipeline entirely from scratch without relying on automatic differentiation or libraries like PyTorch or TensorFlow. The goal of the project is educational: to experiment with different CNN architectures, and explore how a configurable, modular CNN pipeline can be designed using only Numpy.
 
-## 🛠️ How to Use
+## How to Use
 
 ```python
 import numpy as np
