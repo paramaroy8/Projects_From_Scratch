@@ -23,7 +23,7 @@ This repo focuses on **re-implementations and training of known models and compo
   Implementations of tokenization techniques for various data types including text, vision, and audio.
 
 - **Transformers**  
-  Variants of transformer architectures applied to NLP and computer vision tasks.
+  Variants of transformer architectures applied to different tasks.
 
 - **Convolutional Neural Networks (CNNs)**  
   Configurable CNN architecture with Numpy.
