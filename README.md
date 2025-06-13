@@ -1,6 +1,6 @@
-# AI From Scratch
+# Building From Scratch
 
-Welcome to **AI From Scratch**, a comprehensive collection of implementations of foundational AI, machine learning, and deep learning architectures and components — all built from the ground up with minimal dependencies.
+Welcome to **Building From Scratch**, a comprehensive collection of implementations of foundational AI, machine learning, and deep learning architectures and components — all built from the ground up with minimal dependencies.
 
 ---
 
