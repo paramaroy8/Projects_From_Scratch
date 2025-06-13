@@ -49,9 +49,6 @@ ai-from-scratch/
 ├── transformers/
 │ ├── nlp/
 │ └── vision/
-├── cnn/
-├── rnn/
-├── training-utils/
-├── utils/
+├── configurable-2D-cnn-with-numpy/
 └── README.md
 ```
