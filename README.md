@@ -39,8 +39,8 @@ This repo focuses on **re-implementations and training of known models and compo
 
 ---
 
-## 🗂️ Repo Structure (Example)
-
+## 🗂️ Repo Structure
+```
 ai-from-scratch/
 ├── tokenizers/
 │ ├── text/
@@ -54,3 +54,4 @@ ai-from-scratch/
 ├── training-utils/
 ├── utils/
 └── README.md
+```
