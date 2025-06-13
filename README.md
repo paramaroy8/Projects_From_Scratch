@@ -39,7 +39,7 @@ This repo focuses on **re-implementations and training of known models and compo
 
 ---
 
-## 🗂️ Repo Structure
+## 🗂️ Repo Structure (In progress)
 ```
 ai-from-scratch/
 ├── tokenizers/
