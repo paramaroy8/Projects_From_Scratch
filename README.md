@@ -46,6 +46,6 @@ ai-from-scratch/
 ├── transformers/
 │ ├── nlp/
 │ └── vision/
-├── configurable-2D-cnn-with-numpy/
+├── configurable-2D-cnn-with-Numpy/
 └── README.md
 ```
