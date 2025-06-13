@@ -17,7 +17,7 @@ This repo focuses on **re-implementations and training of known models and compo
 
 ---
 
-## 🚀 What’s Inside
+## 🚀 What’s Inside (In progress)
 
 - **Tokenizers**  
   Implementations of tokenization techniques for various data types including text, vision, and audio.
@@ -26,10 +26,7 @@ This repo focuses on **re-implementations and training of known models and compo
   Variants of transformer architectures applied to NLP and computer vision tasks.
 
 - **Convolutional Neural Networks (CNNs)**  
-  Classic and modern CNN architectures implemented from scratch.
-
-- **Recurrent Neural Networks (RNNs)**  
-  Fundamental sequence models and their variants.
+  Configurable CNN architecture with Numpy.
 
 - **Training Utilities**  
   Scripts and helpers to train and evaluate models with minimal external libraries.
