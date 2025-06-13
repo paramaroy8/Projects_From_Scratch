@@ -6,7 +6,7 @@ This folder contains implementations of tokenization techniques for natural lang
 
 ## 📚 Purpose
 
-Tokenization is a crucial preprocessing step that breaks raw text into tokens that models can understand and process.  
+Tokenization is a crucial preprocessing step that breaks raw data into tokens that models can understand and process.  
 These implementations aim to provide clear, from-scratch versions of popular tokenizers to deepen understanding of their inner workings.
 
 ---
