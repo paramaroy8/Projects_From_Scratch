@@ -13,7 +13,8 @@ These implementations aim to provide clear, from-scratch versions of popular tok
 
 ## 🚀 Current Implementations
 
-- **NLP Tokenizer** 
+- **NLP Tokenizer**
+  Word level, BPE
 - **Vision Tokenizer**
   
 ---
