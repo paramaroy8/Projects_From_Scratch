@@ -1,6 +1,6 @@
-# Building From Scratch
+# Projects_From_Scratch
 
-Welcome to **Building From Scratch**, a comprehensive collection of implementations of foundational AI, machine learning, and deep learning architectures and components — all built from the ground up with minimal dependencies.
+Welcome to **Projects From Scratch**, a comprehensive collection of implementations and projects of foundational AI, machine learning, and deep learning architectures and components — all built from the ground up with minimal dependencies.
 
 ---
 
@@ -13,7 +13,7 @@ This repository is designed to:
 - Serve as a portfolio to demonstrate my skills in AI and ML fundamentals.
 
 **Note:**  
-This repo focuses on **re-implementations and training of known models and components**. Novel research or experimental work will be maintained in separate repositories.
+This repo focuses on **re-implementations and training of known models and components as well as full projects**. Novel research or experimental work will be maintained in separate repositories.
 
 ---
 
